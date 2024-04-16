@@ -1,4 +1,3 @@
-Overview
 This project aims to analyze Uber ride data to gain insights into rider patterns, driver behaviors, and overall trends in Uber usage. By analyzing this data, we aim to understand factors influencing ride requests, peak hours, popular routes, and more.
 
 Data Sources
